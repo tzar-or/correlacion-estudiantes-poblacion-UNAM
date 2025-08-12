@@ -14,3 +14,4 @@ The main goal of this study is to compare the proportion of UNAM students given 
 
 The student’s population will be categorized in two: The Secondary education students (Including those in studying technical degrees), and the postsecondary education students (without those in studying technical degrees) such as the undergraduate, Master Degree, Doctoral and postdoctoral.
 
+For further info refer to this email
